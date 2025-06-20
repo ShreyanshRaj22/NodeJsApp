@@ -1,0 +1,7 @@
+Design Review – June 10
+
+- UI theme finalized by Raj.
+- Add accessibility audit to checklist.
+- Lisa will test new prototype with users by June 15.
+- Decision to postpone dark mode launch to Q4.
+ 
